@@ -1,9 +1,8 @@
 # Hi, I'm Emmanuel Wandji 👋
 
-**AI & Data Science engineering student** at **ENSTA, Institut Polytechnique de Paris** (Observation Systems & Artificial Intelligence track).
+**AI & Data Science engineering student**
 I build **machine learning models**, **LLM agents** and **RAG systems**, and I care about how they are evaluated: baselines, metrics, error analysis and avoiding data leakage.
 
-🎯 Looking for a **6-month end-of-studies internship in Data Science / Machine Learning / AI**, starting **March 2027**.
 
 ## 🔭 What I work on
 
