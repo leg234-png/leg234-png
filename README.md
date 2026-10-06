@@ -58,7 +58,7 @@ I build **machine learning models**, **LLM agents** and **RAG systems**, and I c
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuel--wandji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-wandji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-emmanuel--wandji-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-wandji-b0a78a1ba/)
 [![Email](https://img.shields.io/badge/Email-emmanuel.wandji%40ensta.fr-D14836?style=flat&logo=gmail&logoColor=white)](mailto:emmanuel.wandji@ensta.fr)
 
 ## ⚡ Stats
