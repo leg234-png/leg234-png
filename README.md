@@ -8,7 +8,7 @@ I build **machine learning models**, **LLM agents** and **RAG systems**, and I c
 
 - **Machine learning & data analysis**: classification, regression, time series, ranking, feature engineering, model evaluation
 - **LLM agents & RAG**: multi-agent pipelines (LangGraph, LangChain), tool use, semantic search with embeddings, hybrid retrieval
-- **Signal & image processing**: acoustic signal classification, inertial sensor data, CNNs
+- **Computer vision & signal processing**: object detection and tracking (YOLO), acoustic signal classification, inertial sensor data, CNNs
 - **Experimentation**: reproducible pipelines, grouped cross-validation, NDCG / MRR / recall@k, error analysis
 
 ## 🚀 Featured projects
@@ -18,6 +18,7 @@ I build **machine learning models**, **LLM agents** and **RAG systems**, and I c
 | [**travel-search-agent**](https://github.com/leg234-png/travel-search-agent) | LLM agent that turns travel requests into SQL searches, ranks flights with a learned ranker (NDCG@5 0.89 vs 0.41 for price sorting) and gives grounded recommendations | Python, SQL, scikit-learn, LangGraph, OpenAI/Mistral |
 | [**rag-agents-semantic-search**](https://github.com/leg234-png/rag-agents-semantic-search) | ReAct agent with tools and verified citations over a document base; BM25 vs dense vs hybrid (RRF) retrieval benchmark; FastAPI service | Python, embeddings, BM25, LangGraph, FastAPI |
 | [**email-triage-agents**](https://github.com/leg234-png/email-triage-agents) | Multi-agent email triage (intent, priority, sender) with a reviewer agent and human escalation, benchmarked against a TF-IDF baseline with a leakage-free split | Python, LangGraph, scikit-learn, Pydantic |
+| [**pubcam-yolo**](https://github.com/leg234-png/pubcam-yolo) | Real-time vehicle detection, tracking and counting on public online cameras (YouTube live, HLS, MJPEG, RTSP) with a virtual counting line, CSV export and Docker image | Python, YOLO11, OpenCV, ByteTrack, Docker |
 
 ## 🛠️ Tech stack
 
@@ -34,6 +35,7 @@ I build **machine learning models**, **LLM agents** and **RAG systems**, and I c
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 **LLM & agents**
